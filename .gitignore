@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!*.md
+!*.py
+# !*.ipynb
+
+!src
+# !notebooks
